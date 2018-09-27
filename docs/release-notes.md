@@ -13,7 +13,7 @@ npm install --save react-native-firebase@latest
 
  - Remove `fbjs` peer dependency
  - Update Flow version: `^0.78.0`
- - Update TypeScript version: `^3.0.3`
+ - Update TypeScript version: `^3.0.1`
  - Support React Native versions `^0.56.0` to `^0.57.0`
  - Remove bloated `opencollective` install only dependency
  - Remove formerly deprecated Crash Reporting (`firebase.crash()`)
